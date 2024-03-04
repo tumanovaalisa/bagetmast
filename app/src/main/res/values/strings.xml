@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">bagetmast</string>
+    <string name="name">Багетная мастерская</string>
+    <string name="info">Информация</string>
+    <string name="assortement">Заказ</string>
+    <string name="basket">Корзина</string>
+    <string name="infoFragment">Информация о нас</string>
+    <string name="back">Вернуться Назад</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="send">отправить заявку</string>
+    <string name="plus">+</string>
+    <string name="minus">—</string>
+    <string name="more">Подробнее</string>
+    <string name="history">Посмотреть историю заказов</string>
+    <string name="order">Заявка</string>
+    <string name="Entry">Вход</string>
+    <string name="Login">Войти</string>
+    <string name="alreadyDontHave">Ещё нет аккаунта?</string>
+    <string name="getReg">зарегистрироваться</string>
+    <string name="register">Регистрация</string>
+    <string name="getAcc">Создать аккаунт</string>
+    <string name="alreadyHave">Войти в существующий аккаунт</string>
+    <string name="email">Почта</string>
+    <string name="fio">ФИО</string>
+    <string name="passw">Пароль</string>
+    <string name="company">Компания</string>
+    <string name="phone">Телефон</string>
+    <string name="getOrder">Оформить</string>
+</resources>

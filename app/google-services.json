@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118721686876",
+    "project_id": "bagetmastdb",
+    "storage_bucket": "bagetmastdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118721686876:android:bdde7893c9d218da1e2599",
+        "android_client_info": {
+          "package_name": "com.example.bagetmast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCic6DzosK9jdZMpZ7D0JFAn0w4AIVxa7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
